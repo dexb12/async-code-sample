@@ -30,7 +30,6 @@ async function doItYourself() {
         console.error(error);
         displayFinishedTask(error);
     }
-
 }
 
 doItYourself();
